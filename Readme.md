@@ -44,8 +44,6 @@ jupyter notebook wearable_stress_detection.ipynb
 ```bash
 .
 ├── wearable_stress_detection.ipynb
-├── data/
-│   └── wearable_data.csv
 ├── requirements.txt
 └── README.md
 ```
